@@ -4,8 +4,8 @@ const speakeasy = require('speakeasy')
 
 // Mock user database
 const users = [{
-    name: 'Mish',
-    email: 'mish@ushakov.co',
+    name: 'Some User',
+    email: 'your@email.com',
     secret: 'KNEEI3CMIJQWESDYPETDKNKQGZPEMWBBHE4UO626ERPHUVCGIZ4Q'
 }]
 
