@@ -33,7 +33,7 @@ Input context:
 
 ## Preparation
 
-Restore Agent from [Agent.zip](https://github.com/mishushakov/dialogflow-auth/blob/master/Agent.zip)
+Restore Agent from [Agent.zip](./Agent.zip)
 
 ![](https://i.imgur.com/Cft3CtA.png)
 
@@ -79,7 +79,7 @@ const users = [{
 }]
 ```
 
-Deploy to firebase
+Deploy [index.js](./index.js) to firebase
 
 ```sh
 firebase deploy
